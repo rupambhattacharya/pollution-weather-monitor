@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AudiEnv</string>
+    <string name="action_settings">Settings</string>
+    <string name="introduction_text">Welcome to the Weather and Pollution Monitoring App powered by AUDI!</string>
+    <string name="title_activity_display_information">DisplayInformation</string>
+    <string name="title_activity_pollution">Pollution</string>
+    <string name="title_activity_heat_map">HeatMap</string>
+    <string name="title_activity_weather">Weather23</string>
+    <string name="title_activity_pollution_o3">PollutionO3</string>
+
+</resources>

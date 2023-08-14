@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000313</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Customized color tags for the material design. The colors are defined in the file all_colors.xml-->
+    <color name="colorPrimaryApp">@color/md_pink_400</color>
+    <color name="colorPrimaryDarkApp">@color/md_pink_700</color>
+    <color name="textColorPrimaryApp">@color/md_white_1000</color>
+    <color name="windowBackgroundApp">@color/md_grey_200</color>
+    <color name="navigationBarColorApp">@color/md_black_1000</color>
+    <color name="colorAccentApp">@color/md_pink_A400</color>
+
+
+</resources>
