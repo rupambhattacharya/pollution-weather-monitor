@@ -1,9 +1,9 @@
-package com.example.ankur.pollutionandweathermonitor;
+package com.example.rupam.pollutionandweathermonitor;
 
 import android.support.v7.app.AppCompatActivity;
 
 /**
- * Created by ankur on 08.03.2016.
+ * Created by rupam on 08.03.2016.
  */
 public class PollutionGraphDatabase extends AppCompatActivity {
     protected String[] mPollutionCoordinates = new String[] {

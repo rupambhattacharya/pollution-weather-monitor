@@ -1,4 +1,4 @@
-package com.example.ankur.pollutionandweathermonitor;
+package com.example.rupam.pollutionandweathermonitor;
 
 /**
  * Created by Rupam on 3/30/2016.

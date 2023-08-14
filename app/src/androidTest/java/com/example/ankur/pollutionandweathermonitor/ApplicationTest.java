@@ -1,4 +1,4 @@
-package com.example.ankur.pollutionandweathermonitor;
+package com.example.rupam.pollutionandweathermonitor;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

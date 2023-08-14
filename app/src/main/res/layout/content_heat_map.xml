@@ -11,7 +11,7 @@
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     android:orientation="vertical"
     android:background="@color/md_grey_800"
-    tools:context="com.example.ankur.pollutionandweathermonitor.HeatMap"
+    tools:context="com.example.rupam.pollutionandweathermonitor.HeatMap"
     tools:showIn="@layout/activity_heat_map">
     <LinearLayout
         android:id="@+id/LinearLayout1"

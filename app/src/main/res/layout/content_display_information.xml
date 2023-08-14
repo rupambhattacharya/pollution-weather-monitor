@@ -12,7 +12,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.example.ankur.pollutionandweathermonitor.DisplayInformation"
+    tools:context="com.example.rupam.pollutionandweathermonitor.DisplayInformation"
     tools:showIn="@layout/activity_display_information">
 <!-- LinearLayout1 is for the top. It contains the facebook login and auto complete -->
     <LinearLayout
@@ -126,7 +126,7 @@
                 android:name="com.google.android.gms.maps.SupportMapFragment"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                tools:context="com.example.ankur.pollutionandweathermonitor.DisplayInformation" />
+                tools:context="com.example.rupam.pollutionandweathermonitor.DisplayInformation" />
         </LinearLayout>
 
 

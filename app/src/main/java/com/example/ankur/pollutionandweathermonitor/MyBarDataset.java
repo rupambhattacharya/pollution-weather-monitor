@@ -1,7 +1,7 @@
-package com.example.ankur.pollutionandweathermonitor;
+package com.example.rupam.pollutionandweathermonitor;
 
 /**
- * Created by ankur on 08.03.2016.
+ * Created by rupam on 08.03.2016.
  */
 import com.github.mikephil.charting.data.BarDataSet;
 import com.github.mikephil.charting.data.BarEntry;
